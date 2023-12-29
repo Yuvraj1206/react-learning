@@ -1,2 +1,4 @@
 # react-learning
-learning react and practising here
+learning react and practising here 
+first commit
+
